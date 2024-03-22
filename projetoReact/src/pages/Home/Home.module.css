@@ -8,11 +8,11 @@
   }
   
   .container p {
-    font-size: 48px;
+    font-size: 28px;
   }
   
   .container span {
-    color: chocolate;
+    color: rgb(29, 117, 68);
     font-weight: bold;
     font-size: 60px;
   }
@@ -32,12 +32,12 @@
     height: 50px;
     font-size: 20px;
 
-    background-color: brown;
-    border: 0;
-    border-radius: 8px;
+    background-color: rgb(29, 117, 68);
+    border: 10;
+    border-radius: 15px;
 
     color: white;
-    font-weight: bold;
+    font-weight: arial;
 
     cursor: pointer;
   }

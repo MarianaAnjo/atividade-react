@@ -13,16 +13,13 @@ function ODS() {
             <div className='titulo'>
               
               <h1 className={styles.texto_titulo}>
-              <span>8</span><br/>
-                Trabalho decente e<br />
-                crescimento econômico
+              <span>13</span><br/>
+                Ação contra a<br />
+                mudança global do clima
               </h1>
             </div>
-            <p>Promover o crescimento econômico inclusivo e sustentável,<br />
-              o emprego pleno e produtivo e o trabalho digno para todos</p>
-          </div>
-          <div>
-            <img className={styles.img_ods} src="./economy.png" alt="Imagem de Home" /> 
+            <p>Tomar medidas urgentes para combater <br />
+              a mudança do clima e seus imapactos </p>
           </div>
         </div>
 
@@ -30,44 +27,14 @@ function ODS() {
           <h2>Objetivos</h2>
           <ol>
             <li>
-              Sustentar o crescimento econômico per capita de acordo com as circunstâncias nacionais e, em particular,
-              um crescimento anual de pelo menos 7% do produto interno bruto [PIB] nos países menos desenvolvidos
+            Reforçar a resiliência e a capacidade de adaptação a riscos relacionados ao clima
+             e às catástrofes naturais em todos os países
             </li>
             <li>
-              Atingir níveis mais elevados de produtividade das economias por meio da diversificação,
-              modernização tecnológica e inovação, inclusive por meio de um foco em setores de alto valor
-              agregado e dos setores intensivos em mão de obra
+            Integrar medidas da mudança do clima nas políticas, estratégias e planejamentos nacionais
             </li>
             <li>
-              Promover políticas orientadas para o desenvolvimento que apoiem as atividades produtivas, geração de emprego decente,
-              empreendedorismo, criatividade e inovação, e incentivar a formalização e o crescimento das micro, pequenas e médias empresas,
-              inclusive por meio do acesso a serviços financeiros
-            </li>
-            <li>Melhorar progressivamente, até 2030, a eficiência dos recursos globais no consumo e na produção,
-              e empenhar-se para dissociar o crescimento econômico da degradação ambiental, de acordo com o Plano Decenal de Programas sobre
-              Produção e Consumo Sustentáveis, com os países desenvolvidos assumindo a liderança
-            </li>
-            <li>
-              Até 2030, alcançar o emprego pleno e produtivo e trabalho decente para todas as mulheres e homens,
-              inclusive para os jovens e as pessoas com deficiência, e remuneração igual para trabalho de igual valor
-            </li>
-            <li>
-              Até 2020, reduzir substancialmente a proporção de jovens sem emprego, educação ou formação
-            </li>
-            <li>
-              Tomar medidas imediatas e eficazes para erradicar o trabalho forçado, acabar com a escravidão moderna e o tráfico de pessoas,
-              e assegurar a proibição e eliminação das piores formas de trabalho infantil, incluindo recrutamento e utilização de crianças-soldado,
-              e até 2025 acabar com o trabalho infantil em todas as suas formas
-            </li>
-            <li>
-              Proteger os direitos trabalhistas e promover ambientes de trabalho seguros e protegidos para todos os trabalhadores, incluindo os trabalhadores migrantes,
-              em particular as mulheres migrantes, e pessoas em empregos precários
-            </li>
-            <li>
-              Até 2030, elaborar e implementar políticas para promover o turismo sustentável, que gera empregos e promove a cultura e os produtos locais
-            </li>
-            <li>
-              Fortalecer a capacidade das instituições financeiras nacionais para incentivar a expansão do acesso aos serviços bancários, de seguros e financeiros para todos
+            Melhorar a educação, aumentar a conscientização e a capacidade humana e institucional sobre mitigação, adaptação, redução de impacto e alerta precoce da mudança do clima
             </li>
           </ol>
         </div>

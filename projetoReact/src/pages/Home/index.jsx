@@ -10,18 +10,17 @@ function Home() {
       <section className={styles.container}>
         <div className={styles.apresentacao}>
           <p>
-            <span>Trabalho digno </span> <br />
-            base para um futuro justo e próspero
+            <span> Olá, conheça a ODS sobre 
+              <br /> mudança do clima </span> <br />
+        
+            Ação contra a mudança global do clima
           </p>
           <Link to="/ods">
             <button className={styles.btn}>
-              Saiba mais
+              Faça parte disso
             </button>
           </Link>
         </div>
-        <figure>
-          <img className={styles.img_home} src="./work.svg" alt="Imagem de Home" />
-        </figure>
       </section>
       <Footer />
 

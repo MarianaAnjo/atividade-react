@@ -5,11 +5,11 @@ function Header() {
   return (
     <header>
       <div className={styles.header}>
-        <span>ODS 8</span>
+        <span>ODS 13</span>
         <nav>
-          <Link to="/">Home</Link>
+          <Link to="/">Página inicial</Link>
           <Link to="/ods">ODS</Link>
-          <Link to="/sobre">Sobre</Link>
+          <Link to="/sobre">Perfil</Link>
         </nav>
       </div>
     </header>
